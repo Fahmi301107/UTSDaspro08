@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class UTSYudisium08 { 
     public static void main(String[] args) {
-        final int P = 8; 
+         int P = 8; 
 
         boolean isGanjil = (P % 2 != 0);
         int minSks = isGanjil ? 144 : 108;

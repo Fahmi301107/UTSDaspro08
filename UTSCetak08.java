@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class UTSCetak08 {
     public static void main(String[] args) {
-        final int P = 1; 
+         int P = 1; 
 
         Scanner sc = new Scanner(System.in);
 
